@@ -1,0 +1,11 @@
+pedido_id,regiao,estado,modalidade_entrega,distancia_km,custo_entrega_reais
+PED-00646,Sul,SC,Padrao,2159,226.02
+PED-00248,Centro-Oeste,MT,Padrao,1810,204.95
+PED-00552,Nordeste,CE,Expressa,1401,186.85
+PED-00104,Sul,PR,Economica,1971,185.61
+PED-00636,Norte,PA,Expressa,1353,183.49
+PED-00333,Sudeste,SP,Expressa,1587,179.23
+PED-00907,Sudeste,MG,Expressa,1427,176.48
+PED-00261,Nordeste,CE,Expressa,1250,175.51
+PED-00348,Nordeste,PE,Expressa,1296,172.44
+PED-00846,Sul,SC,Expressa,1278,170.45

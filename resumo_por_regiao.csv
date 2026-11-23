@@ -1,0 +1,6 @@
+regiao,total_entregas,atrasadas,taxa_atraso_pct,tempo_medio_dias,custo_medio_reais
+Norte,144,64,44.44,9.99,92.82
+Nordeste,250,78,31.2,8.66,82.66
+Sul,182,39,21.43,7.21,76.75
+Centro-Oeste,146,28,19.18,7.03,81.59
+Sudeste,478,89,18.62,5.99,72.25
